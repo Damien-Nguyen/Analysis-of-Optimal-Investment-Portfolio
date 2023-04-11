@@ -4,7 +4,7 @@ The goal of this project is to develop a machine learning model which can be use
 ## Background 
 The implementation of machine learning models and algorithmic trading in the financial industry has enabled traders to make faster, more time-efficient transactions with minial human errors. Therefore, the purpose of our project is 
 ## FinTech Techniques Used 
-1) Machine learning
+1) Machine learning - neural network, logistic regression
 2) Algo trading 
 ## Model Performace and Evaluation
 1) Back testing with a second model 
