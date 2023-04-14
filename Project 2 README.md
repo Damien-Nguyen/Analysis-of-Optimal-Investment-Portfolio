@@ -17,11 +17,11 @@ We fitted the training data into StandardScaler model, then used the trained dat
 ## Results
 - Prediction by SVR model
 
-![SVM- SVR Prediction Result Plot.PNG](Result Photos\SVM- SVR Prediction Result Plot.PNG)
+![SVM-SVR_Prediction_Result_Plot.PNG](Result_Photos\SVM-SVR_Prediction_Result_Plot.PNG)
 
 - Prediction by KNN model
 
-![Neighbors Prediction Result Plot.PNG](Result Photos\Neighbors Prediction Result Plot.PNG)
+![Neighbors_Prediction_Result_Plot.PNG](Result_Photos\Neighbors_Prediction_Result_Plot.PNG)
 
 Conclusion: The K Nearest Neighbors Regression model produces better result for predicting continuous data.
 ## Postmortem 
