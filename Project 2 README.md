@@ -10,7 +10,7 @@ The implementation of machine learning models and algorithmic trading in the fin
 We applied two new models that are not taught in class to build our programs.
 - Main model - Support Vector Regression (SVR)
 - Backtest model - K Nearest Neighbors Regression (KNN)
-When applying the models, there are also a few new libraires used, including the 
+When applying the models, there are also a few new libraires used, including svm and KNeighborsRegressor.
 ## Model Evaluation
 - Method:
 We validate the performance of our model in two ways - hold-out validation through splitting data into training and testing sets and back testing using a second model.
