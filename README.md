@@ -1,5 +1,5 @@
 # Analysis of Optimal Investment Portfolio 
-![AI-Stock-750x350.png](AI-Stock-750x350.png)
+![AI-Stock-750x350.png](./Result_Photos/AI-Stock-750x350.png)
 
 The goal of this project is to develop a machine learning model which can be used to help us form the best investment portfolio of the selected stocks to generate the maximum returns.
 ## Background 
